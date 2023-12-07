@@ -1,0 +1,4 @@
+Website ini merupakan website sistem informasi kuliner malam Pasar Manis yang berada di Purwokerto, Banyumas.
+Dalam website ini kita dapat menjelajahi kuliner malam Pasar Manis secara virtual.
+Kita dapat melihat kulineran malam apa saja yang tersedia di dalam website ini berdasarkan data yang berada di Pasar Manis tersebut.
+Di sini juga terdapat fitur Virtual Tour yang merupakan video suasana Pasar Manis ketika malam hari, sehingga kita dapat melihat bagaimana suasana kuliner malam Pasar Manis yang sangat memukau.
